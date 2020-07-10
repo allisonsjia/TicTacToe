@@ -2,6 +2,6 @@
 public class Main 
 {    public static void main(String[] args)
     {
-        System.out.println("Avoiding Merge Conflict!");
+        System.out.println("Avoiding Merge Conflict");
     }
 }
