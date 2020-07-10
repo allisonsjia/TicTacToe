@@ -2,6 +2,6 @@
 public class Main 
 {    public static void main(String[] args)
     {
-        System.out.println("Allison Rocks!");
+        System.out.println("Avoiding Merge Conflict!");
     }
 }
